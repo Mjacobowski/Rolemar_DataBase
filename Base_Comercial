@@ -1,18 +1,5 @@
 [
   {
-   Analise apenas as mensagens do cliente no histórico e identifique de qual cidade ele é.
-
-  Com base nisso, retorne o WhatsApp e o e-mail da filial da Rolemar dessa cidade, consultando os dados disponíveis no vetor (Qdrant). 
-  
-  Se não encontrar essa cidade no vetor ou não for possível identificar a cidade nas mensagens, use os dados da Rolemar de Londrina como padrão.
-  
-  IMPORTANTE:
-  Responda APENAS com o WhatsApp e o e-mail da filial, exatamente neste formato:
-  
-  WhatsApp (XX) XXXX-XXXX ou e-mail nome@rolemar.com
-
-  }
-  {
     "id": "comercial-poa",
     "payload": { "cidade": "porto alegre", "setor": "comercial" },
     "vector": null,
