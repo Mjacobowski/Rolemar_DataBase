@@ -1,0 +1,18 @@
+"id": "comercial-poa",
+"payload": { "cidade": "porto alegre", "setor": "comercial" },
+"text": "Você pode falar com nosso setor comercial de Porto Alegre pelo WhatsApp (51) 3515-6040 ou e-mail vendas.poa@rolemar.com."
+
+  
+"id": "comercial-joinville",
+"payload": { "cidade": "joinville", "setor": "comercial" },
+"text": "Nosso comercial em Joinville atende pelo WhatsApp (47) 3802-6036 ou e-mail vendas.joinville@rolemar.com."
+
+
+"id": "comercial-curitiba",
+"payload": { "cidade": "curitiba", "setor": "comercial" },
+"text": "Comercial de Curitiba: WhatsApp (41) 3371-9019, e-mail vendas.curitiba@rolemar.com."
+
+
+"id": "comercial-londrina",
+"payload": { "cidade": "londrina", "setor": "comercial" },
+"text": "Em Londrina, nosso comercial atende pelo WhatsApp (43) 3378-6066 ou e-mail vendas.londrina@rolemar.com."
