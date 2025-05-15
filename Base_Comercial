@@ -1,7 +1,7 @@
 [
   {
     "id": "comercial-poa",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "porto alegre",
       "regiao": "sul",
@@ -11,7 +11,7 @@
   },
   {
     "id": "comercial-joinville",
-    "vector": [0.1, 0.2, ...],
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "joinville",
       "regiao": "sul",
@@ -21,7 +21,7 @@
   },
   {
     "id": "comercial-curitiba",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "curitiba",
       "regiao": "sul",
@@ -31,7 +31,7 @@
   },
   {
     "id": "comercial-londrina",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "londrina",
       "regiao": "sul",
@@ -41,7 +41,7 @@
   },
   {
     "id": "comercial-saopaulo",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "são paulo",
       "regiao": "sudeste",
@@ -51,7 +51,7 @@
   },
   {
     "id": "comercial-sjc",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "são josé dos campos",
       "regiao": "sudeste",
@@ -61,7 +61,7 @@
   },
   {
     "id": "comercial-campinas",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "campinas",
       "regiao": "sudeste",
@@ -71,7 +71,7 @@
   },
   {
     "id": "comercial-marilia",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "marília",
       "regiao": "sudeste",
@@ -81,7 +81,7 @@
   },
   {
     "id": "comercial-uberlandia",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "uberlândia",
       "regiao": "sudeste",
@@ -91,7 +91,7 @@
   },
   {
     "id": "comercial-contagem",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "contagem",
       "regiao": "sudeste",
@@ -101,7 +101,7 @@
   },
   {
     "id": "comercial-vitoria",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "vitória",
       "regiao": "sudeste",
@@ -111,7 +111,7 @@
   },
   {
     "id": "comercial-salvador",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "salvador",
       "regiao": "nordeste",
@@ -121,7 +121,7 @@
   },
   {
     "id": "comercial-recife",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "recife",
       "regiao": "nordeste",
@@ -131,7 +131,7 @@
   },
   {
     "id": "comercial-fortaleza",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "fortaleza",
       "regiao": "nordeste",
@@ -141,7 +141,7 @@
   },
   {
     "id": "comercial-saoluis",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "são luís",
       "regiao": "nordeste",
@@ -151,7 +151,7 @@
   },
   {
     "id": "comercial-belem",
-    "vector": null,
+    "vector": [0, 0, 0, 0, 0, 0, 0, 0],
     "metadata": {
       "cidade": "belém",
       "regiao": "norte",
