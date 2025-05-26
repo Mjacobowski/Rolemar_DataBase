@@ -1,62 +1,62 @@
 [
   {
-    "content": " altere frete T para P",
-    "metadata": {
-      "department": "Dev Sis"
-    }
+    "content": "Os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.",
+    "metadata": { "department": "Infra" }
   },
   {
-    "content": "Preciso de ajuda para configurar a rede na nova filial. Os computadores não estão conectando corretamente.",
-    "metadata": {
-      "department": "Infra"
-    }
+    "content": "Solicito a liberação do acesso ao sistema ERP no servidor da Rolemar.",
+    "metadata": { "department": "Dev Sis" }
   },
   {
-    "content": "Conseguem por gentileza gerar esse arquivo novamente no rolemar master?",
-    "metadata": {
-      "department": "Dev Sis"
-    }
+    "content": "O site institucional da Rolemar está fora do ar. Clientes não conseguem acessar as informações.",
+    "metadata": { "department": "Dev WEB" }
   },
   {
-    "content": "Gostaria de solicitar a criação de um novo usuário no sistema de gestão de estoque.",
-    "metadata": {
-      "department": "Dev Sis"
-    }
+    "content": "Meu e-mail parou de funcionar. Urgente resolver o problema.",
+    "metadata": { "department": "Suporte" }
   },
   {
-    "content": "O site institucional está fora do ar. Clientes não conseguem acessar as informações.",
-    "metadata": {
-      "department": "Dev WEB"
-    }
+    "content": "Quero alterar o layout da landing page da campanha atual.",
+    "metadata": { "department": "Dev WEB" }
   },
   {
-    "content": "Meu e-mail corporativo parou de funcionar do nada, preciso resolver isso com urgência.",
-    "metadata": {
-      "department": "Suporte"
-    }
+    "content": "Erro ao emitir nota fiscal no sistema. O botão salvar não responde.",
+    "metadata": { "department": "Dev Sis" }
   },
   {
-    "content": "Erro ao lançar notas fiscais no sistema ERP. Tela trava após clicar em 'Salvar'.",
-    "metadata": {
-      "department": "Dev Sis"
-    }
+    "content": "Computador travando ao iniciar. Preciso de ajuda com isso.",
+    "metadata": { "department": "Suporte" }
   },
   {
-    "content": "Estou com dificuldades para acessar o servidor via VPN.",
-    "metadata": {
-      "department": "Infra"
-    }
+    "content": "Não consigo conectar via VPN ao servidor de arquivos.",
+    "metadata": { "department": "Infra" }
   },
   {
-    "content": "O formulário de contato do site não está enviando os dados corretamente.",
-    "metadata": {
-      "department": "Dev WEB"
-    }
+    "content": "Atualizem por favor o menu do site com a nova página de parceiros.",
+    "metadata": { "department": "Dev WEB" }
   },
   {
-    "content": "Computador do setor financeiro não liga. Já tentei trocar os cabos.",
-    "metadata": {
-      "department": "Suporte"
-    }
+    "content": "Preciso criar um novo usuário para o setor financeiro no sistema de gestão.",
+    "metadata": { "department": "Dev Sis" }
+  },
+  {
+    "content": "A impressora da recepção parou de funcionar. Já reiniciei e não resolve.",
+    "metadata": { "department": "Suporte" }
+  },
+  {
+    "content": "Estamos com lentidão geral na rede da unidade de Salvador.",
+    "metadata": { "department": "Infra" }
+  },
+  {
+    "content": "Formulário do site não está enviando as mensagens corretamente.",
+    "metadata": { "department": "Dev WEB" }
+  },
+  {
+    "content": "Sistema de pedidos está calculando valores errados. Verificar com urgência.",
+    "metadata": { "department": "Dev Sis" }
+  },
+  {
+    "content": "Erro ao instalar a impressora local. Aparece mensagem de driver inválido.",
+    "metadata": { "department": "Suporte" }
   }
 ]
