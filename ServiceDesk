@@ -1,5 +1,13 @@
 [
   {
+    "content": "O notebook foi danificado durante a limpeza do comercial, apresentando danos visíveis.",
+    "metadata": { "department": "Suporte" }
+  },
+  {
+    "content": "O notebook foi danificado durante a limpeza do comercial, apresentando danos visíveis, Apesar disso, o notebook continua funcionando normalmente até o momento.",
+    "metadata": { "department": "Suporte" }
+  },
+  {
     "content": "Os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.",
     "metadata": { "department": "Infra" }
   },
