@@ -1,5 +1,9 @@
 [
   {
+    "content": "A fonte escolhida para uso geral nas máquinas ficou muito ruim e atrapalhou a visão em geral dos colaboradores.",
+    "metadata": { "department": "Infra" }
+  },
+  {
     "content": "O notebook foi danificado durante a limpeza do comercial, apresentando danos visíveis.",
     "metadata": { "department": "Suporte" }
   },
