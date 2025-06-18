@@ -1,31 +1,62 @@
-Porto Alegre: (51) 3515-6040 vendas.poa@rolemar.com
-
-Joinville: (47) 3802-6036 vendas.joinville@rolemar.com
-
-Curitiba: (41) 3371-9019 vendas.curitiba@rolemar.com
-
-Londrina: (43) 3378-6066 vendas.londrina@rolemar.com
-
-São Paulo: (11) 3377-6234 vendas.saopaulo@rolemar.com
-
-São José dos Campos: (11) 3377-6200 vendas.sjc@rolemar.com
-
-Campinas: (19) 3202-6020 vendas.campinas@rolemar.com
-
-Marília: (14) 3311-6010 vendas.marilia@rolemar.com
-
-Uberlândia: (34) 2101-6309 vendas.uberlandia@rolemar.com
-
-Contagem: (31) 3768-6675 vendas.contagem@rolemar.com
-
-Vitória: (27) 3211-6760 gerente.vitoria@rolemar.com
-
-Salvador: (71) 2101-6024 vendas.salvador@rolemar.com
-
-Recife: (81) 4009-6016 vendas.recife@rolemar.com
-
-Fortaleza: (85) 3052-6001 vendas.fortaleza@rolemar.com
-
-São Luís: (98) 8738-4017 vendas.saoluis@rolemar.com
-
-Belém: (91) 3205-6005 vendas.belem@rolemar.com
+[
+  {
+    "content": "Os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.",
+    "metadata": { "department": "Infra" }
+  },
+  {
+    "content": "Solicito a liberação do acesso ao sistema ERP no servidor da Rolemar.",
+    "metadata": { "department": "Dev Sis" }
+  },
+  {
+    "content": "O site institucional da Rolemar está fora do ar. Clientes não conseguem acessar as informações.",
+    "metadata": { "department": "Dev WEB" }
+  },
+  {
+    "content": "Meu e-mail parou de funcionar. Urgente resolver o problema.",
+    "metadata": { "department": "Suporte" }
+  },
+  {
+    "content": "Quero alterar o layout da landing page da campanha atual.",
+    "metadata": { "department": "Dev WEB" }
+  },
+  {
+    "content": "Erro ao emitir nota fiscal no sistema. O botão salvar não responde.",
+    "metadata": { "department": "Dev Sis" }
+  },
+  {
+    "content": "Computador travando ao iniciar. Preciso de ajuda com isso.",
+    "metadata": { "department": "Suporte" }
+  },
+  {
+    "content": "Não consigo conectar via VPN ao servidor de arquivos.",
+    "metadata": { "department": "Infra" }
+  },
+  {
+    "content": "Atualizem por favor o menu do site com a nova página de parceiros.",
+    "metadata": { "department": "Dev WEB" }
+  },
+  {
+    "content": "Preciso criar um novo usuário para o setor financeiro no sistema de gestão.",
+    "metadata": { "department": "Dev Sis" }
+  },
+  {
+    "content": "A impressora da recepção parou de funcionar. Já reiniciei e não resolve.",
+    "metadata": { "department": "Suporte" }
+  },
+  {
+    "content": "Estamos com lentidão geral na rede da unidade de Salvador.",
+    "metadata": { "department": "Infra" }
+  },
+  {
+    "content": "Formulário do site não está enviando as mensagens corretamente.",
+    "metadata": { "department": "Dev WEB" }
+  },
+  {
+    "content": "Sistema de pedidos está calculando valores errados. Verificar com urgência.",
+    "metadata": { "department": "Dev Sis" }
+  },
+  {
+    "content": "Erro ao instalar a impressora local. Aparece mensagem de driver inválido.",
+    "metadata": { "department": "Suporte" }
+  }
+]
