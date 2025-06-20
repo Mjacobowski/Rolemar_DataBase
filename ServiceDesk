@@ -1,5 +1,9 @@
 [
   {
+    "content": "Instalação e/ou configuração do Sankhya para alguém.",
+    "metadata": { "department": "Infraestrutura" }
+  },
+  {
     "content": "Acesso a qualquer sistema.",
     "metadata": { "department": "Suporte" }
   },
