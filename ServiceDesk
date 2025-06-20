@@ -1,5 +1,9 @@
 [
   {
+    "content": "Acesso a qualquer sistema.",
+    "metadata": { "department": "Suporte" }
+  },
+  {
     "content": "Os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.",
     "metadata": { "department": "Infra" }
   },
