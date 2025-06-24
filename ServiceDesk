@@ -1,5 +1,9 @@
 [
   {
+    "content": "Problemas para acessar o Sankhya.",
+    "metadata": { "department": "Suporte" }
+  },
+  {
     "content": "Instalação e/ou configuração do Sankhya para alguém.",
     "metadata": { "department": "Infraestrutura" }
   },
