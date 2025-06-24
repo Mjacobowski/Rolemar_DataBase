@@ -1,6 +1,14 @@
 [
-  {Suporte: "Responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios"
+  {
+Infra: "Gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa"
   },
-  {Suporte: "Responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios"
+  {
+Infra: "Gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa"
+  },
+  {
+Infra: "Gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa"
+  },
+  {
+Suporte: "Responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios"
   }
 ]
