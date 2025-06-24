@@ -1,14 +1,10 @@
-[
-  {
-Infra: "Gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa"
-  },
-  {
+-----Descrição dos setores-----
+Dev.W: "Focado no desenvolvimento e manutenção de sites e aplicações web, integração de APIs, segurança, performance e experiência do usuário."
+
 Dev.S: "Atua no desenvolvimento e manutenção de sistemas internos, automação de processos, integração de software e testes de qualidade."
-  },
-  {
+
 Infra: "Gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa"
-  },
-  {
+
 Suporte: "Responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios"
-  }
-]
+
+-----Exemplos-----
