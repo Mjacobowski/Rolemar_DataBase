@@ -1,7 +1,5 @@
 
 Similaridades - Classificador Rolemar
-(A fim de te contextualizar, foi perguntado ao humano se ele já ouviu falar do Rolemar master, e você está recebendo agora a resposta dele).
-(abaixo você vai encontrar cada opção e similaridades para facilitar sua resposta)
 
 3.0 (caso a pessoa queira saber mais sobre o Rolemar Master)
 - aceito conhecer
@@ -10,32 +8,19 @@ Similaridades - Classificador Rolemar
 - gostaria de conhecer
 - gostaria de saber mais
 - tenho interesse em conhecer
-- tenho curiosidade
-- quero informações
 - não conheço ainda
 - não fui apresentado
 - ainda não fui apresentado
-- o que é isso?
-- me explica sobre
 - quero detalhes
 - curioso para conhecer
-- como funciona?
 - queria conhecer
-- explica melhor
-- pode me explicar?
-- gostaria de entender melhor
 - queria entender
-- quero ver como é
-- nunca vi, me explica
-- conta mais sobre
-- me fala sobre
 - quero conhecer sim
 - sim, quero conhecer
 - quero conhecer mais
 - gostaria de saber o que é
 - não conheço esse sistema
 - nunca usei, quero conhecer
-
 3.1 (A pessoa aceitou acessar)
 - ok
 - ok manda aí
@@ -68,7 +53,7 @@ Similaridades - Classificador Rolemar
 - beleza manda aí
 - pode mandar
 
-3.2 (A pessoa não tem interesse)
+3.2 (A pessoa não tenha interesse)
 - não
 - não quero
 - não tenho interesse
@@ -133,7 +118,7 @@ Similaridades - Classificador Rolemar
 - neste momento não dá
 - agora não consigo ver
 
-0 (Sem sentido ou não tem haver sobre a pergunta feita)
+0 (Escolha essa opção quando não entender, ou quando não tiver relação com o contexto da mensagem)
 - kkkk
 - haha
 - rsrs
