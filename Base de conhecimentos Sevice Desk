@@ -1,12 +1,13 @@
 -----Descrição dos setores-----
-Dev.W: "Focado no desenvolvimento e manutenção de sites e aplicações web, integração de APIs, segurança, performance e experiência do usuário."
+tic-dev_web: Focado no desenvolvimento e manutenção de sites e aplicações web, integração de APIs, segurança, performance e experiência do usuário.
 
-Dev.S: "Atua no desenvolvimento e manutenção de sistemas internos, automação de processos, integração de software e testes de qualidade."
+tic-dev_sist: Atua no desenvolvimento e manutenção de sistemas internos, automação de processos, integração de software e testes de qualidade.
 
-Infra: "Gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa"
+tic-infraestrutura: Gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa
 
-Suporte: "Responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios"
+tic-suporte: Responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios
 
+tic-ia: Responsavel por automações com ia, ajuste e regulação de agentes de ia da própria empresa.
 -----Exemplos-----
 [
   {
@@ -19,7 +20,7 @@ Suporte: "Responsável pelo atendimento a usuários, suporte técnico, erros de 
   },
   {
     "content": "Instalação e/ou configuração do Sankhya para alguém.",
-    "metadata": { "department": "Infraestrutura" }
+    "metadata": { "department": "tic-infraestrutura" }
   },
   {
     "content": "Acesso a qualquer sistema.",
@@ -27,15 +28,15 @@ Suporte: "Responsável pelo atendimento a usuários, suporte técnico, erros de 
   },
   {
     "content": "Os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.",
-    "metadata": { "department": "Infra" }
+    "metadata": { "department": "tic-infraestrutura" }
   },
   {
     "content": "Solicito a liberação do acesso ao sistema ERP no servidor da Rolemar.",
-    "metadata": { "department": "Dev Sis" }
+    "metadata": { "department": "tic_dev_sist" }
   },
   {
     "content": "O site institucional da Rolemar está fora do ar. Clientes não conseguem acessar as informações.",
-    "metadata": { "department": "Dev WEB" }
+    "metadata": { "department": "tic_dev_web" }
   },
   {
     "content": "Meu e-mail parou de funcionar. Urgente resolver o problema.",
@@ -43,11 +44,11 @@ Suporte: "Responsável pelo atendimento a usuários, suporte técnico, erros de 
   },
   {
     "content": "Quero alterar o layout da landing page da campanha atual.",
-    "metadata": { "department": "Dev WEB" }
+    "metadata": { "department": "tic_dev_web" }
   },
   {
     "content": "Erro ao emitir nota fiscal no sistema. O botão salvar não responde.",
-    "metadata": { "department": "Dev Sis" }
+    "metadata": { "department": "tic_dev_sist" }
   },
   {
     "content": "Computador travando ao iniciar. Preciso de ajuda com isso.",
