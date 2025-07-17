@@ -9,81 +9,29 @@ tic-suporte: Responsável pelo atendimento a usuários, suporte técnico, erros 
 
 tic-ia: Responsavel por automações com ia, ajuste e regulação de agentes de ia da própria empresa.
 -----Exemplos-----
-[
-  {
-    "content": "Cadastro de Patrimonio",
-    "metadata": { "department": "tic-suporte" }
-  },
-  {
-    "content": "Problemas para acessar o Sankhya.",
-    "metadata": { "department": "tic-suporte" }
-  },
-  {
-    "content": "Instalação e/ou configuração do Sankhya para alguém.",
-    "metadata": { "department": "tic-infraestrutura" }
-  },
-  {
-    "content": "Acesso a qualquer sistema.",
-    "metadata": { "department": "tic-suporte" }
-  },
-  {
-    "content": "Os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.",
-    "metadata": { "department": "tic-infraestrutura" }
-  },
-  {
-    "content": "Solicito a liberação do acesso ao sistema ERP no servidor da Rolemar.",
-    "metadata": { "department": "tic_dev_sist" }
-  },
-  {
-    "content": "O site institucional da Rolemar está fora do ar. Clientes não conseguem acessar as informações.",
-    "metadata": { "department": "tic_dev_web" }
-  },
-  {
-    "content": "Meu e-mail parou de funcionar. Urgente resolver o problema.",
-    "metadata": { "department": "tic-suporte" }
-  },
-  {
-    "content": "Quero alterar o layout da landing page da campanha atual.",
-    "metadata": { "department": "tic_dev_web" }
-  },
-  {
-    "content": "Erro ao emitir nota fiscal no sistema. O botão salvar não responde.",
-    "metadata": { "department": "tic_dev_sist" }
-  },
-  {
-    "content": "Computador travando ao iniciar. Preciso de ajuda com isso.",
-    "metadata": { "department": "tic-suporte" }
-  },
-  {
-    "content": "Não consigo conectar via VPN ao servidor de arquivos.",
-    "metadata": { "department": "tic-infraestrutura" }
-  },
-  {
-    "content": "Atualizem por favor o menu do site com a nova página de parceiros.",
-    "metadata": { "department": "tic-dev_web" }
-  },
-  {
-    "content": "Preciso criar um novo usuário para o setor financeiro no sistema de gestão.",
-    "metadata": { "department": "tic-dev_sist" }
-  },
-  {
-    "content": "A impressora da recepção parou de funcionar. Já reiniciei e não resolve.",
-    "metadata": { "department": "tic-suporte" }
-  },
-  {
-    "content": "Estamos com lentidão geral na rede da unidade de Salvador.",
-    "metadata": { "department": "tic-infraestrutura" }
-  },
-  {
-    "content": "Formulário do site não está enviando as mensagens corretamente.",
-    "metadata": { "department": "tic-dev_web" }
-  },
-  {
-    "content": "Sistema de pedidos está calculando valores errados. Verificar com urgência.",
-    "metadata": { "department": "tic-dev_sist" }
-  },
-  {
-    "content": "Erro ao instalar a impressora local. Aparece mensagem de driver inválido.",
-    "metadata": { "department": "tic-suporte" }
-  }
-]
+# tic-suporte
+Cadastro de Patrimonio
+Problemas para acessar o Sankhya.
+Acesso a qualquer sistema.
+Meu e-mail parou de funcionar.
+Computador travando ao iniciar.
+A impressora da recepção parou de funcionar.
+Erro ao instalar a impressora local. Aparece mensagem de driver inválido.
+
+# tic-infraestrutura
+Instalação e/ou configuração do Sankhya para alguém.
+Os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.
+Não consigo conectar via VPN ao servidor de arquivos.
+Estamos com lentidão geral na rede da unidade de Salvador.
+
+# tic-dev_sist
+Solicito a liberação do acesso ao sistema ERP no servidor da Rolemar.
+Erro ao emitir nota fiscal no sistema.
+Preciso criar um novo usuário para o setor financeiro no sistema de gestão.
+Sistema de pedidos está calculando valores errados.
+
+# tic-dev_web
+O site institucional da Rolemar está fora do ar.
+Quero alterar o layout da landing page da campanha atual.
+Atualizem por favor o menu do site com a nova página de parceiros.
+Formulário do site não está enviando as mensagens corretamente.
