@@ -1,38 +1,38 @@
------Descrição dos setores-----
-tic-dev_web: Focado no desenvolvimento e manutenção de sites e aplicações web, integração de APIs, segurança, performance e experiência do usuário.
+-----descrição dos setores-----
+tic-dev_web: focado no desenvolvimento e manutenção de sites e aplicações web, integração de APIs, segurança, performance e experiência do usuário.
 
-tic-dev_sist: Atua no desenvolvimento e manutenção de sistemas internos, automação de processos, integração de software e testes de qualidade.
+tic-dev_sist: atua no desenvolvimento e manutenção de sistemas internos, automação de processos, integração de software e testes de qualidade.
 
-tic-infraestrutura: Gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa
+tic-infraestrutura: gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa
 
-tic-suporte: Responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios
+tic-suporte: responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios
 
-tic-ia: Responsavel por automações com ia, ajuste e regulação de agentes de ia da própria empresa.
+tic-ia: responsavel por automações com ia, ajuste e regulação de agentes de ia da própria empresa.
 -----Exemplos-----
 # tic-suporte
-Solicito o cadastro do crachá do colaborador
-Cadastro de Patrimonio
-Problemas para acessar o Sankhya.
-Acesso a qualquer sistema.
-Meu e-mail parou de funcionar.
-Computador travando ao iniciar.
-A impressora da recepção parou de funcionar.
-Erro ao instalar a impressora local. Aparece mensagem de driver inválido.
+solicito o cadastro do crachá do colaborador
+cadastro de Patrimonio
+problemas para acessar o Sankhya.
+acesso a qualquer sistema.
+meu e-mail parou de funcionar.
+computador travando ao iniciar.
+a impressora da recepção parou de funcionar.
+erro ao instalar a impressora local. Aparece mensagem de driver inválido.
 
 # tic-infraestrutura
-Instalação e/ou configuração do Sankhya para alguém.
-Os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.
-Não consigo conectar via VPN ao servidor de arquivos.
-Estamos com lentidão geral na rede da unidade de Salvador.
+instalação e/ou configuração do Sankhya para alguém.
+os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.
+não consigo conectar via VPN ao servidor de arquivos.
+estamos com lentidão geral na rede da unidade de Salvador.
 
 # tic-dev_sist
-Solicito a liberação do acesso ao sistema ERP no servidor da Rolemar.
-Erro ao emitir nota fiscal no sistema.
-Preciso criar um novo usuário para o setor financeiro no sistema de gestão.
-Sistema de pedidos está calculando valores errados.
+dolicito a liberação do acesso ao sistema ERP no servidor da Rolemar.
+erro ao emitir nota fiscal no sistema.
+preciso criar um novo usuário para o setor financeiro no sistema de gestão.
+sistema de pedidos está calculando valores errados.
 
 # tic-dev_web
-O site institucional da Rolemar está fora do ar.
-Quero alterar o layout da landing page da campanha atual.
-Atualizem por favor o menu do site com a nova página de parceiros.
-Formulário do site não está enviando as mensagens corretamente.
+o site institucional da Rolemar está fora do ar.
+wuero alterar o layout da landing page da campanha atual.
+atualizem por favor o menu do site com a nova página de parceiros.
+formulário do site não está enviando as mensagens corretamente.
