@@ -1,13 +1,20 @@
 -----descrição dos setores-----
-tic-dev_web: focado no desenvolvimento e manutenção de sites e aplicações web, integração de APIs, segurança, performance e experiência do usuário.
+tic-dev_web
+desenvolvimento e manutenção de sites e aplicações web. Inclui integração de APIs, segurança da informação, performance e experiência do usuário.
 
-tic-dev_sist: atua no desenvolvimento e manutenção de sistemas internos, automação de processos, integração de software e testes de qualidade.
+tic-dev_sist
+criação e manutenção de sistemas internos. Atua com automação de processos, integração entre softwares e testes de qualidade.
 
-tic-infraestrutura: gerencia servidores, redes, segurança, backup, virtualização e serviços em nuvem, garantindo a estabilidade e eficiência dos recursos tecnológicos da empresa
+tic-infraestrutura
+administração de servidores, redes, segurança, backup, virtualização e serviços em nuvem. Garante a estabilidade e disponibilidade da infraestrutura de TI.
 
-tic-suporte: responsável pelo atendimento a usuários, suporte técnico, erros de impressora, resolução de chamados, equipamentos da empresa (hardware) e cadastros de novos patrimônios
+tic-suporte
+atendimento técnico a usuários. Resolve problemas de hardware, impressoras, cadastros de patrimônio e chamados relacionados ao uso de equipamentos.
 
-tic-ia: responsavel por automações com ia, ajuste e regulação de agentes de ia da própria empresa.
+tic-ia
+desenvolvimento e ajuste de automações com inteligência artificial, incluindo configuração e melhoria de agentes de IA da empresa.
+
+
 -----Exemplos-----
 # tic-suporte
 solicito o cadastro do crachá do colaborador
