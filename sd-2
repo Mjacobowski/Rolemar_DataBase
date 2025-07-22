@@ -1,21 +1,3 @@
------descrição dos setores-----
-tic-dev_web
-Responsável por intervenções no site institucional e aplicações web da empresa. Atua em solicitações como: correção de falhas em formulários, alterações no layout de páginas específicas (ex: landing pages), ajustes em menus e links, e resolução de indisponibilidade do site.
-
-tic-dev_sist
-Responsável por operações envolvendo sistemas de gestão interna (ex: ERP, sistema de pedidos). Atua na criação e manutenção de usuários, resolução de erros sistêmicos (como falhas de cálculo ou emissão de notas), liberação de acessos e suporte à importação de dados.
-
-tic-infraestrutura
-Atua na conectividade e funcionamento técnico de rede e sistemas, especialmente em aspectos físicos ou de acesso remoto. Executa tarefas como: instalação e configuração de sistemas (ex: Sankhya), suporte à conexão VPN, resolução de falhas de internet em unidades e lentidão de rede.
-
-tic-suporte
-Responsável por atendimentos operacionais relacionados ao uso de equipamentos e serviços básicos de TI. Realiza configurações de notebooks, suporte a e-mail, liberação de cadastros (ex: crachá, patrimônio), correções em impressoras e resolução de falhas comuns em computadores.
-
-tic-ia
-Setor designado para o desenvolvimento e ajustes de soluções envolvendo inteligência artificial. A descrição informa que o setor atua com configuração e melhoria de agentes de IA da empresa. Não há exemplos registrados de e-mails relacionados.
-
------Exemplos-----
-# tic-suporte
 Favor configurar dois notebooks.
 Por favor, configurar notebook para a vendedora
 por favor adicionar eventos para liberar notas.
@@ -27,21 +9,15 @@ meu e-mail parou de funcionar.
 computador travando ao iniciar.
 a impressora da recepção parou de funcionar.
 erro ao instalar a impressora local. Aparece mensagem de driver inválido.
-
-# tic-infraestrutura
 instalação e/ou configuração do Sankhya para alguém.
 os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.
 não consigo conectar via VPN ao servidor de arquivos.
 estamos com lentidão geral na rede da unidade de Salvador.
-
-# tic-dev_sist
 Podem nos ajudar com a importação deste xml para o Sankhya.
 dolicito a liberação do acesso ao sistema ERP no servidor da Rolemar.
 erro ao emitir nota fiscal no sistema.
 preciso criar um novo usuário para o setor financeiro no sistema de gestão.
 sistema de pedidos está calculando valores errados.
-
-# tic-dev_web
 o site institucional da Rolemar está fora do ar.
 wuero alterar o layout da landing page da campanha atual.
 atualizem por favor o menu do site com a nova página de parceiros.
