@@ -1,0 +1,44 @@
+Nome: tic-dev_web
+  Descrição: Responsável pelo desenvolvimento, manutenção e melhoria de sites institucionais e aplicações web. Atua em demandas como atualização de conteúdos, criação de novas páginas, integração com APIs externas, além de otimização de desempenho, usabilidade e segurança. Garante a funcionalidade dos formulários, menus e demais componentes interativos do ambiente web da empresa.
+  Exemplos:
+    - Favor configurar dois notebooks.
+    -  Por favor, configurar notebook para a vendedora
+    - por favor adicionar eventos para liberar notas.
+    - solicito o cadastro do crachá do colaborador
+    - cadastro de Patrimonio
+    - problemas para acessar o Sankhya.
+    - acesso a qualquer sistema.
+    - meu e-mail parou de funcionar.
+    - computador travando ao iniciar.
+    - a impressora da recepção parou de funcionar.
+    - erro ao instalar a impressora local. Aparece mensagem de driver inválido.
+
+Nome: tic-dev_sist
+  Descrição: Focado na criação, manutenção e integração de sistemas corporativos internos, como ERPs e plataformas de gestão. Atua diretamente na automação de processos, ajustes de funcionalidades, permissões de acesso, análise de erros operacionais e testes de qualidade para garantir o correto funcionamento dos sistemas que suportam as operações da empresa.
+  Exemplos:
+    - instalação e/ou configuração do Sankhya para alguém.
+    - os computadores da unidade de Contagem não estão conseguindo acessar a internet. Preciso de suporte.
+    - não consigo conectar via VPN ao servidor de arquivos.
+    - estamos com lentidão geral na rede da unidade de Salvador.
+
+Nome: tic-infraestrutura
+  Descrição: Cuida da base tecnológica que sustenta os serviços digitais da empresa. Inclui a gestão de servidores, redes, VPN, segurança da informação, backups, virtualização e serviços em nuvem. Atua proativamente para manter a estabilidade, conectividade e segurança da infraestrutura, além de resolver incidentes de rede ou falhas estruturais.
+  Exemplos:
+    - Podem nos ajudar com a importação deste xml para o Sankhya.
+    - solicito a liberação do acesso ao sistema ERP no servidor da Rolemar.
+    - erro ao emitir nota fiscal no sistema.
+    - preciso criar um novo usuário para o setor financeiro no sistema de gestão.
+    - sistema de pedidos está calculando valores errados.
+
+Nome: tic-suporte
+  Descrição: Presta atendimento direto aos colaboradores da empresa, solucionando problemas relacionados a hardware, softwares básicos, cadastros, acessos e periféricos como impressoras. Também realiza configurações de equipamentos, suporte ao uso de sistemas e resolução de chamados de uso diário dos recursos de TI.
+  Exemplos:
+    - o site institucional da Rolemar está fora do ar.
+    - quero alterar o layout da landing page da campanha atual.
+    - atualizem por favor o menu do site com a nova página de parceiros.
+    - formulário do site não está enviando as mensagens corretamente.
+
+Nome: tic-ia
+  Descrição: Dedica-se ao desenvolvimento, ajuste e monitoramento de soluções baseadas em inteligência artificial, incluindo agentes automatizados, sistemas de recomendação e assistentes virtuais. Atua na configuração, treinamento e melhoria contínua de modelos de IA utilizados nos processos internos da empresa, visando automação inteligente e ganho de eficiência.
+  Exemplos:
+    - Preciso que ajustem o agente de IA da Rolemar.
