@@ -1,18 +1,18 @@
 -----descrição dos setores-----
 tic-dev_web
-responsável pelo desenvolvimento, manutenção e melhoria de sites institucionais e aplicações web. Atua em demandas como atualização de conteúdos, criação de novas páginas, integração com APIs externas, além de otimização de desempenho, usabilidade e segurança. Garante a funcionalidade dos formulários, menus e demais componentes interativos do ambiente web da empresa.
+Responsável por intervenções no site institucional e aplicações web da empresa. Atua em solicitações como: correção de falhas em formulários, alterações no layout de páginas específicas (ex: landing pages), ajustes em menus e links, e resolução de indisponibilidade do site.
 
 tic-dev_sist
-focado na criação, manutenção e integração de sistemas corporativos internos, como ERPs e plataformas de gestão. Atua diretamente na automação de processos, ajustes de funcionalidades, permissões de acesso, análise de erros operacionais e testes de qualidade para garantir o correto funcionamento dos sistemas que suportam as operações da empresa.
+Responsável por operações envolvendo sistemas de gestão interna (ex: ERP, sistema de pedidos). Atua na criação e manutenção de usuários, resolução de erros sistêmicos (como falhas de cálculo ou emissão de notas), liberação de acessos e suporte à importação de dados.
 
 tic-infraestrutura
-focado na criação, manutenção e integração de sistemas corporativos internos, como ERPs e plataformas de gestão. Atua diretamente na automação de processos, ajustes de funcionalidades, permissões de acesso, análise de erros operacionais e testes de qualidade para garantir o correto funcionamento dos sistemas que suportam as operações da empresa.
+Atua na conectividade e funcionamento técnico de rede e sistemas, especialmente em aspectos físicos ou de acesso remoto. Executa tarefas como: instalação e configuração de sistemas (ex: Sankhya), suporte à conexão VPN, resolução de falhas de internet em unidades e lentidão de rede.
 
 tic-suporte
-cuida da base tecnológica que sustenta os serviços digitais da empresa. Inclui a gestão de servidores, redes, VPN, segurança da informação, backups, virtualização e serviços em nuvem. Atua proativamente para manter a estabilidade, conectividade e segurança da infraestrutura, além de resolver incidentes de rede ou falhas estruturais.
+Responsável por atendimentos operacionais relacionados ao uso de equipamentos e serviços básicos de TI. Realiza configurações de notebooks, suporte a e-mail, liberação de cadastros (ex: crachá, patrimônio), correções em impressoras e resolução de falhas comuns em computadores.
 
 tic-ia
-presta atendimento direto aos colaboradores da empresa, solucionando problemas relacionados a hardware, softwares básicos, cadastros, acessos e periféricos como impressoras. Também realiza configurações de equipamentos, suporte ao uso de sistemas e resolução de chamados de uso diário dos recursos de TI.
+Setor designado para o desenvolvimento e ajustes de soluções envolvendo inteligência artificial. A descrição informa que o setor atua com configuração e melhoria de agentes de IA da empresa. Não há exemplos registrados de e-mails relacionados.
 
 -----Exemplos-----
 # tic-suporte
